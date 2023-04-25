@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://mouse.db.elephantsql.com/ppsqpwwj?useSSL=false&allowPublicKeyRetrieval=true
+    username: ppsqpwwj
+    password: NB0oKlp5cXVRFW0L1swuL9551CZbxCdb
+
+  jpa:
+    show-sql: true
+    open-in-view: true
+    hibernate:
+      ddl-auto: update
