@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS "user_private" CASCADE;
+DROP TABLE IF EXISTS "parking_slot_document" CASCADE;
+DROP TABLE IF EXISTS "parking_slot" CASCADE;
+DROP TABLE IF EXISTS "user" CASCADE;
